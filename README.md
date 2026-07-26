@@ -23,6 +23,17 @@
 </p>
 ---
 
+<p align="center">
+
+<a href="#about">About</a> •
+<a href="#features">Features</a> •
+<a href="#roadmap">Roadmap</a> •
+<a href="#installation">Installation</a> •
+<a href="#structure">Structure</a> •
+<a href="#contributing">Contributing</a>
+
+</p>
+
 # 📖 About
 
 **Python Basics** is a complete educational repository created for beginners who want to learn Python from scratch.
@@ -493,6 +504,14 @@ This project is licensed under the **MIT License**.
 *(Replace these with your own links.)*
 
 ---
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight"/>
+
+</p>
 
 # 👨‍💻 Author
 

@@ -25,6 +25,12 @@
 
 <p align="center">
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight">
+
+</p>
+
+<p align="center">
+
 <a href="#about">About</a> •
 <a href="#features">Features</a> •
 <a href="#roadmap">Roadmap</a> •
@@ -69,6 +75,19 @@ Python is widely used in:
 - 🛰️ IoT Development
 
 ---
+
+## 📚 Learning Progress
+
+| Topic | Progress |
+|-------|----------|
+| Variables | 🟩🟩🟩🟩🟩 |
+| Operators | 🟩🟩🟩🟩🟩 |
+| Loops | 🟩🟩🟩🟩🟩 |
+| Functions | 🟩🟩🟩🟩⬜ |
+| OOP | 🟩🟩🟩⬜⬜ |
+| Projects | 🟩🟩⬜⬜⬜ |
+
+> 💡 **"Programming isn't about what you know; it's about what you can figure out."**
 
 # ✨ Repository Features
 
@@ -487,6 +506,12 @@ If this repository helped you,
 🤝 Contribute to make it even better
 
 ---
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight">
+
+</p>
 
 # 📄 License
 

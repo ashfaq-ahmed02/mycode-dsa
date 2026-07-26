@@ -3,17 +3,24 @@
 > **A comprehensive, beginner-friendly Python learning repository designed to help students master Python programming through structured lessons, practical examples, coding challenges, mini projects, and real-world applications.**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge">
-  <img src="https://img.shields.io/badge/License-MIT-brightgreen?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Level-Beginner-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-blueviolet?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/github/stars/yourusername/Python-Basics?style=for-the-badge">
+
+<img src="https://img.shields.io/github/forks/yourusername/Python-Basics?style=for-the-badge">
+
+<img src="https://img.shields.io/github/issues/yourusername/Python-Basics?style=for-the-badge">
+
+<img src="https://img.shields.io/github/license/yourusername/Python-Basics?style=for-the-badge">
+
+<img src="https://img.shields.io/github/last-commit/yourusername/Python-Basics?style=for-the-badge">
+
 </p>
 
 <p align="center">
-  <strong>Learn Python • Practice Daily • Build Projects • Become Job Ready 🚀</strong>
+<img src="images/banner.png" width="100%">
 </p>
-
 ---
 
 # 📖 About

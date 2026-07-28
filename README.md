@@ -38,9 +38,8 @@
 
 
 <p align="center">
-<img src="images/banner.png" width="100%">
+  <img src="./images/banner.png" width="100%" alt="MyCode DSA Banner">
 </p>
----
 
 <p align="center">
 

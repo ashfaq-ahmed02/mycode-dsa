@@ -1,22 +1,41 @@
-# 🐍 Python Basics
+# 🚀 MyCode DSA
 
-> **A comprehensive, beginner-friendly Python learning repository designed to help students master Python programming through structured lessons, practical examples, coding challenges, mini projects, and real-world applications.**
+> **A structured Data Structures & Algorithms (DSA) repository built with Python. This repository documents my learning journey through topic-wise solutions, explanations, time & space complexity analysis, and daily coding practice.**
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white">
 
-<img src="https://img.shields.io/github/stars/yourusername/Python-Basics?style=for-the-badge">
+<img src="https://img.shields.io/github/stars/ashfaq-ahmed02/mycode-dsa?style=for-the-badge">
 
-<img src="https://img.shields.io/github/forks/yourusername/Python-Basics?style=for-the-badge">
+<img src="https://img.shields.io/github/forks/ashfaq-ahmed02/mycode-dsa?style=for-the-badge">
 
-<img src="https://img.shields.io/github/issues/yourusername/Python-Basics?style=for-the-badge">
+<img src="https://img.shields.io/github/issues/ashfaq-ahmed02/mycode-dsa?style=for-the-badge">
 
-<img src="https://img.shields.io/github/license/yourusername/Python-Basics?style=for-the-badge">
+<img src="https://img.shields.io/github/license/ashfaq-ahmed02/mycode-dsa?style=for-the-badge">
 
-<img src="https://img.shields.io/github/last-commit/yourusername/Python-Basics?style=for-the-badge">
+<img src="https://img.shields.io/github/last-commit/ashfaq-ahmed02/mycode-dsa?style=for-the-badge">
 
 </p>
+
+<p align="center">
+<img src="images/banner.png" width="100%" alt="MyCode DSA Banner">
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfaq-ahmed02&layout=compact&theme=tokyonight">
+
+</p>
+
+<p align="center">
+
+<a href="#about">About</a> • <a href="#repository-structure">Repository Structure</a> • <a href="#learning-roadmap">Learning Roadmap</a> • <a href="#daily-progress">Daily Progress</a> • <a href="#contributing">Contributing</a>
+
+</p>
+
 
 <p align="center">
 <img src="images/banner.png" width="100%">

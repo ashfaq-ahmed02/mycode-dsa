@@ -42,6 +42,14 @@
 
 # 📖 About
 
+# 📖 About
+
+Welcome to **MyCode DSA**!
+
+This repository is my personal DSA learning journey using **Python**. Every problem includes a clean solution, explanation, and time complexity analysis.
+
+My goal is to strengthen problem-solving skills, prepare for coding interviews, and build consistency by solving DSA problems every day.
+
 **Python Basics** is a complete educational repository created for beginners who want to learn Python from scratch.
 
 Every topic is organized into separate folders with clean code, simple explanations, practical examples, coding exercises, and mini projects to strengthen programming skills.
